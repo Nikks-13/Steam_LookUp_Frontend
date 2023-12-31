@@ -1,3 +1,17 @@
+
+# Steam Look Up
+
+The Steam Lookup API allows you to retrieve detailed information about a Steam user by providing their Steam ID as input. The API performs conversions on various Steam IDs in the backend and returns a comprehensive set of data, including the user's avatar and other associated Steam IDs.
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/Steam_LookUp_Frontend/main/screenshots/1.png)
+
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/Steam_LookUp_Frontend/main/screenshots/2.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
